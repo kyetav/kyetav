@@ -6,9 +6,16 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/58cf6cd0-1be5-42d3-b456-b33a9591c089" alt="banner" width="100%"/>
-</div>
+<p align="center">
+  <img src="brabo.jpg" alt="Banner">
+</p>
+
+<p align="center">
+  <sub>
+    Banner artwork by <a href="https://www.pixiv.net/en/artworks/84367545">
+Enze_恩沢</a>
+  </sub>
+</p>
 
 ---
 
