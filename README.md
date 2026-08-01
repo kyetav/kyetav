@@ -23,7 +23,7 @@ Enze_恩沢</a>
 <div align="center">
 <img align="right" width="190" src="https://github.com/user-attachments/assets/fcc1dadb-3b71-459e-af44-3317408a36cb"/>
 <p align="left">
-Hello! I'm Victor Dantas, an Information Systems student at Faculdade Pitágoras de Uberlândia, currently in my 3rd semester. I'm focused on Backend Development and really into Data Structures and Algorithms. I enjoy movies, books, and tech in general.
+Hello! I'm Victor Dantas, an Information Systems student at Faculdade Pitágoras from Uberlândia, currently in my 4rd semester. I'm focused on Backend Development and really into Data Structures and Algorithms. I enjoy movies, books, and tech in general.
 <br/><br/>
 Currently, I'm working as a Developer Intern at <a href="https://www.aliberti.com.br/">Aliberti Consultoria</a>, an officially recognized partner of <a href="https://www.sankhya.com.br/">Sankhya</a>, getting hands-on experience in real-world software development.
 </p>
